@@ -35,6 +35,7 @@
     }
   ],
   "labels": {
-    "HAPROXY_GROUP": "external"
+    "HAPROXY_GROUP": "external",
+    "HAPROXY_0_VHOST": "PUBLIC_AGENT_ELB_DNS_NAME"
   }
 }
